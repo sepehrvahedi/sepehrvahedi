@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer | 🤖 AI Enthusiast | 🎯 Competitive Programmer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Sharif+University;Software+Engineer+%40+Tapsi;AI%2FML+Research+%40+ISE+Lab;Top+80+INOI+Finalist;Expert+Level+Codeforces+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Sharif+University;Software+Engineer+%40+Tapsi;AI%2FML+Research+%40+ISE+Lab;Top+50+INOI+Finalist;Expert+Level+Codeforces+Programmer)](https://git.io/typing-svg)
 
 </div>
 
